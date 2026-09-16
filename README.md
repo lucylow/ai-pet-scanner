@@ -2,9 +2,6 @@
 
 **AI-powered pet health screening and wellness companion**
 
-> **Repository:** `https://github.com/lucylow/ai-pet-scanner`
-> **License:** MIT
-> **Primary application artifact:** `pet-health-scanner.zip`
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Repository](https://img.shields.io/badge/GitHub-ai--pet--scanner-181717?logo=github)](https://github.com/lucylow/ai-pet-scanner)
