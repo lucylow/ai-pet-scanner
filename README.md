@@ -2,6 +2,8 @@
 
 **AI-powered pet health screening and wellness companion**
 
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/6546.png?raw=true)
+
 AI Pet Scanner is an AI-powered mobile computer-vision platform that analyzes pet images through a multi-stage pipeline combining image-quality validation, pet and region detection, multimodal visual inference, confidence calibration, and structured observation generation. The platform maintains pet-specific scan histories and longitudinal comparisons, enabling owners to track visual changes over time while using a modular AI-provider architecture, privacy-aware media processing, and deterministic safety/policy controls to separate AI-assisted observations from veterinary diagnosis.
 
 
