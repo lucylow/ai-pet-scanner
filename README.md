@@ -11,6 +11,15 @@ AI Pet Scanner is an AI-powered mobile computer-vision platform that analyzes pe
 [![AI](https://img.shields.io/badge/AI-Pet%20Health%20Screening-7c3aed)](https://github.com/lucylow/ai-pet-scanner)
 [![Pet Care](https://img.shields.io/badge/Focus-Pet%20Wellness-ec4899)](https://github.com/lucylow/ai-pet-scanner)
 
+
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/5.png?raw=true)
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/6546.png?raw=true)
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/44.png?raw=true)
+
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/7.png?raw=true)
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/654.png?raw=true)
+![](https://github.com/lucylow/ai-pet-scanner/blob/main/images/33.png?raw=true)
+
 ---
 
 # Table of Contents
